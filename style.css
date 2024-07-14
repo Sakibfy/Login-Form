@@ -6,7 +6,7 @@
 }
 
 body{
-   background: url(/img/1\ eng.jpg) no-repeat;
+   background: url(img/1\ eng.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   display: flex;
@@ -22,7 +22,6 @@ body{
   padding: 30px 40px;
   box-shadow: 0 0 5px;
   backdrop-filter: blur(3px);
-
 }
 
 .wrappr h1{
@@ -101,9 +100,6 @@ position: absolute;
 .btn:hover{
 background: #34ace0;
 }
-
-
-
 
 .register_link {
  color: black;
